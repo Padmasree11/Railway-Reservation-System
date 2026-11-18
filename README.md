@@ -30,6 +30,7 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 # UML use case diagrams are ideal for:
+<img width="671" height="435" alt="Screenshot 2026-10-23 104816" src="https://github.com/user-attachments/assets/ab10d38a-99b3-49c5-ae78-424694f5d7cc" />
 
 Representing the goals of system-user interactions
 
@@ -46,6 +47,7 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+<img width="434" height="380" alt="Screenshot 2026-10-27 143613" src="https://github.com/user-attachments/assets/621bec1c-f124-4e81-985d-b64198cd2d72" />
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
